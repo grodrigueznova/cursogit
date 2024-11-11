@@ -9,7 +9,7 @@
 
 int main()
 {
-    printf( "Hola mundo!!." );
+    printf( "Adios Mundo!!." );
 
     printf( "\n\n   Pulse una tecla para salir..." );
 
