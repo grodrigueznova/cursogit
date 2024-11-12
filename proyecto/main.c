@@ -10,6 +10,7 @@
 int main()
 {
     printf( "Adios Mundo!!." );
+    printf( "Ahora uso clave publica!!" );
 
     printf( "\n\n   Pulse una tecla para salir..." );
 
