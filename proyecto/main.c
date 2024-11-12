@@ -11,7 +11,7 @@ int main()
 {
     printf( "Adios Mundo!!." );
     printf( "Ahora uso clave publica!!" );
-
+    printf( "Ahora uso clave publica desde Github!!" );
     printf( "\n\n   Pulse una tecla para salir..." );
 
     getch(); /* Pausa */
